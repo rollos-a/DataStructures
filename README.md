@@ -2,4 +2,4 @@
 
 Projects done in a data structures class. 
 
-Index of assignemnts as follows:
+Index of projects as follows:
