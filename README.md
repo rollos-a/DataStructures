@@ -1,7 +1,4 @@
 # DataStructures
-
-Projects done in a data structures class. 
-
 Index of projects and their descriptions as follows:
 
 
