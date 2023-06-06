@@ -20,6 +20,7 @@ Index of projects and their descriptions as follows:
 		read through a Java file to ensure sumbols 
 			{}’s, ( )'s, [ ]'s, " "’s, and /* */ 
 		are balanced utilizing   java.util.Stack
+		
 	Problem2:
 		build a Queue ADT by using two stacks and implementing TwoStackQueueInterface
 	
@@ -27,16 +28,16 @@ Index of projects and their descriptions as follows:
 ## Project 6:
 	Problem1:
 		implement ExpressionTreeInterface to write a class which takes in a postfix expression String and run a stack-based algorithm to build an expression tree
-				public int eval() - resulting integer value 
-						     of the expression tree 
-						     
-				public String postfix() - corresponding postfix expression
-				
-				public String prefix()	- corresponding prefix expression
-				
-				public String infix() - corresponding infix expression		   
-				
-				public ExpressionTree(String expression) - constructor of the expression tree from the postfix String using the stack based algorithm
+			public int eval() - resulting integer value 
+					     of the expression tree 
+
+			public String postfix() - corresponding postfix expression
+
+			public String prefix()	- corresponding prefix expression
+
+			public String infix() - corresponding infix expression		   
+
+			public ExpressionTree(String expression) - constructor of the expression tree from the postfix String using the stack based algorithm
 									     
 	Problem2:
 		implement BinarySearchTree in BetterBST to include the methods:
@@ -58,7 +59,6 @@ Index of projects and their descriptions as follows:
 			public List<String> getIncorrectWords(String filename) - return a list of all words in the input file that are mispelled
 
 			public Set<String> getSuggestions(String word) - return a set of all potential suggestions for mispelled word
-
 	
 	Problem2:
 		find the k-best (largest) values in a set of data that can be infinatley large. Implement the class KBestCounter<T extends Comparable<?       super T>> implements KBest<T> using java.util.PriorityQueue.			
