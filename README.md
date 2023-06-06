@@ -55,20 +55,20 @@ Index of projects and their descriptions as follows:
 	Problem1:
 		implement a spell-checker using a hash table implementing SpellCheckerInterface referencing the dictionary words.txt
 		
-		public SpellChecker(String filename) - the constructor should take the file name of the dictionary
-		
-		public List<String> getIncorrectWords(String filename) - return a list of all words in the input file that are mispelled
-		
-		public Set<String> getSuggestions(String word) - return a set of all potential suggestions for mispelled word
-		
+			public SpellChecker(String filename) - the constructor should take the file name of the dictionary
+
+			public List<String> getIncorrectWords(String filename) - return a list of all words in the input file that are mispelled
+
+			public Set<String> getSuggestions(String word) - return a set of all potential suggestions for mispelled word
+
 	
 	Problem2:
 		find the k-best (largest) values in a set of data that can be infinatley large. Implement the class KBestCounter<T extends Comparable<?       super T>> implements KBest<T> using java.util.PriorityQueue.
 			The methods include:
 			
-			public KBestCounter(int k) - the constructor takes in an int k (the amount of largest elements you want). 
-			
-			public void count(T x) - process the next element in the set of data in O(log k) time.
-			
-			public List<T> kbest() - return a sorted (smallest to largest) list of the k-largest elements in O(k log k) time
-			
+				public KBestCounter(int k) - the constructor takes in an int k (the amount of largest elements you want). 
+
+				public void count(T x) - process the next element in the set of data in O(log k) time.
+
+				public List<T> kbest() - return a sorted (smallest to largest) list of the k-largest elements in O(k log k) time
+
