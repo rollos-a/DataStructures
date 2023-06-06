@@ -28,7 +28,7 @@ Index of projects and their descriptions as follows:
 	
 		
 ## Project 6:
-	### Problem1:
+	Problem1:
 		implement ExpressionTreeInterface to write a class which takes in a postfix expression String and run a stack-based algorithm to build an expression tree
 			Provide 3 Methods:
 				public int eval() - resulting integer value 
