@@ -5,7 +5,7 @@ Projects done in a data structures class.
 Index of projects and their descriptions as follows:
 
 
-##Poject 2:
+Poject 2:
 	Problem1:
 		commands knowledge of interfaces and Big-O runtimes 
 		
@@ -18,7 +18,7 @@ Index of projects and their descriptions as follows:
 		Problem2 to check if a given String is a palindrome
 		
 
-##Poject 4:
+Poject 4:
 	Problem1:
 		read through a Java file to ensure sumbols 
 			{}’s, ( )'s, [ ]'s, " "’s, and /* */ 
@@ -27,7 +27,7 @@ Index of projects and their descriptions as follows:
 		build a Queue ADT by using two stacks and implementing TwoStackQueueInterface
 	
 		
-##Poject 6:
+Poject 6:
 	Problem1:
 		implement ExpressionTreeInterface to write a class which takes in a postfix expression String and run a stack-based algorithm to build an expression tree
 			Provide 3 Methods:
@@ -54,7 +54,7 @@ Index of projects and their descriptions as follows:
 			
 			public LinkedList<BinaryNode<T>> levelOrderTraversal - return a LinkedList<BinaryNode<T>> of a level order traversal of the binary tree
 			
-##Poject 8:
+Poject 8:
 	Problem1:
 		implement a spell-checker using a hash table implementing SpellCheckerInterface referencing the dictionary words.txt
 		
