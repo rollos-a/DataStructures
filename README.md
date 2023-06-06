@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 Index of projects and their descriptions as follows:
 
 
